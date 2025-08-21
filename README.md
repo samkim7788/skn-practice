@@ -51,3 +51,5 @@ D를 입력 받는다.
 <br />
 
 ### 실행 결과
+<img width="521" height="262" alt="image" src="https://github.com/user-attachments/assets/0629bf86-5e0c-4485-bddf-eec30a58027b" />
+
